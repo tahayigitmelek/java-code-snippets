@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Jump Search Comparisons
-public class Search {
+public class JumpSearchComparisons {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
